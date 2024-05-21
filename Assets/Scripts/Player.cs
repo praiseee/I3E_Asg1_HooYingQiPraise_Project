@@ -20,7 +20,7 @@ public class Player : MonoBehaviour
     private int currentScore = 0;
     private int blueCardCount = 0;
     private int orangeCardCount = 0;
-    private int purpleCardCount = 0;
+    private int purpleCardCount = 0; //hello
 
     public bool menuOpen = false;
 
